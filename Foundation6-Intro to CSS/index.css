@@ -1,0 +1,31 @@
+.bold
+{
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.adiv
+{
+    font-size: 18px;
+}
+
+.smallbold
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button.con
+{
+    background-color: green;
+    color: white;
+}
+button.can
+{
+    background-color: white;
+}
+
+button
+{
+    font-size: 18px;
+}
