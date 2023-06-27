@@ -1,0 +1,15 @@
+.yes
+{
+    background-color: black;
+    color: white;
+}
+
+.click
+{
+    font-size: 28px;
+}
+
+.no
+{
+    background-color: rgb(224, 224, 0);
+}
