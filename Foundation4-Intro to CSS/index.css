@@ -1,0 +1,16 @@
+.first
+{
+    height: auto;
+    width: 300px;
+}
+
+.second
+{
+    height: 400px;
+    width: 200px;
+}
+
+.second.one
+{
+    height: auto;
+}
